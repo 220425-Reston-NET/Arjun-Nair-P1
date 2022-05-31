@@ -22,3 +22,15 @@ C:\Users\naira\Documents\Revature\Poke\StoreModel\obj\Debug\net6.0\StoreModel.dl
 C:\Users\naira\Documents\Revature\Poke\StoreModel\obj\Debug\net6.0\refint\StoreModel.dll
 C:\Users\naira\Documents\Revature\Poke\StoreModel\obj\Debug\net6.0\StoreModel.pdb
 C:\Users\naira\Documents\Revature\Poke\StoreModel\obj\Debug\net6.0\ref\StoreModel.dll
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\bin\Debug\net6.0\StoreModel.deps.json
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\bin\Debug\net6.0\StoreModel.dll
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\bin\Debug\net6.0\StoreModel.pdb
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.csproj.AssemblyReference.cache
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.AssemblyInfoInputs.cache
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.AssemblyInfo.cs
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.csproj.CoreCompileInputs.cache
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.dll
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\refint\StoreModel.dll
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\StoreModel.pdb
+C:\Users\naira\Documents\Revature\Arjun-Nair-P1\StoreModel\obj\Debug\net6.0\ref\StoreModel.dll

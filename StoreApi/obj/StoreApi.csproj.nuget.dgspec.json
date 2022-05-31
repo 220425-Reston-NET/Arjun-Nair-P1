@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj": {}
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreApi\\StoreApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj": {
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreApi\\StoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
-        "projectName": "StoreModel",
-        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
+        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreApi\\StoreApi.csproj",
+        "projectName": "StoreApi",
+        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreApi\\StoreApi.csproj",
         "packagesPath": "C:\\Users\\naira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\obj\\",
+        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naira\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -48,6 +54,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

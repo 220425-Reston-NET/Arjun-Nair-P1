@@ -17,3 +17,5 @@
 2022-05-25 07:43:00.854 -07:00 [INF] User searching for products
 2022-05-25 07:45:06.358 -07:00 [INF] User entering shopping cart
 2022-05-27 12:17:54.243 -07:00 [INF] User searching for products
+2022-05-31 11:45:59.531 -07:00 [INF] User searching for customer
+2022-05-31 11:46:16.240 -07:00 [INF] User searching for customer

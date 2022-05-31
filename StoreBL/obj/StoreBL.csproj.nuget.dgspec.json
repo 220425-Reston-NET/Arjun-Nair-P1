@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreBL\\StoreBL.csproj": {}
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreBL\\StoreBL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreBL\\StoreBL.csproj": {
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreBL\\StoreBL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreBL\\StoreBL.csproj",
+        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreBL\\StoreBL.csproj",
         "projectName": "StoreBL",
-        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreBL\\StoreBL.csproj",
+        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreBL\\StoreBL.csproj",
         "packagesPath": "C:\\Users\\naira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreBL\\obj\\",
+        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreBL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naira\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\StoreDL.csproj": {
-                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\StoreDL.csproj"
+              "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\StoreDL.csproj": {
+                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\StoreDL.csproj"
               },
-              "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj": {
-                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj"
+              "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj": {
+                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\StoreDL.csproj": {
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\StoreDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\StoreDL.csproj",
+        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\StoreDL.csproj",
         "projectName": "StoreDL",
-        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\StoreDL.csproj",
+        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\StoreDL.csproj",
         "packagesPath": "C:\\Users\\naira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreDL\\obj\\",
+        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreDL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naira\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj": {
-                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj"
+              "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj": {
+                "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj": {
+    "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj",
+        "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
         "projectName": "StoreModel",
-        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj",
+        "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
         "packagesPath": "C:\\Users\\naira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\obj\\",
+        "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\naira\\AppData\\Roaming\\NuGet\\NuGet.Config"

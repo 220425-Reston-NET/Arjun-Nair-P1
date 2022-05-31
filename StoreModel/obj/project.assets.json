@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj",
+      "projectUniqueName": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
       "projectName": "StoreModel",
-      "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\StoreModel.csproj",
+      "projectPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\StoreModel.csproj",
       "packagesPath": "C:\\Users\\naira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Poke\\StoreModel\\obj\\",
+      "outputPath": "C:\\Users\\naira\\Documents\\Revature\\Arjun-Nair-P1\\StoreModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\naira\\AppData\\Roaming\\NuGet\\NuGet.Config"
