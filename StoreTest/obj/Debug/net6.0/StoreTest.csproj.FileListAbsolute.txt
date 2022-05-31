@@ -1,0 +1,5 @@
+C:\Users\naira\Documents\Revature\Poke\StoreTest\obj\Debug\net6.0\StoreTest.csproj.AssemblyReference.cache
+C:\Users\naira\Documents\Revature\Poke\StoreTest\obj\Debug\net6.0\StoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naira\Documents\Revature\Poke\StoreTest\obj\Debug\net6.0\StoreTest.AssemblyInfoInputs.cache
+C:\Users\naira\Documents\Revature\Poke\StoreTest\obj\Debug\net6.0\StoreTest.AssemblyInfo.cs
+C:\Users\naira\Documents\Revature\Poke\StoreTest\obj\Debug\net6.0\StoreTest.csproj.CoreCompileInputs.cache

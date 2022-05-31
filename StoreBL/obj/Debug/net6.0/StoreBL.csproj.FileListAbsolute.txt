@@ -1,0 +1,17 @@
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreBL.deps.json
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreBL.dll
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreBL.pdb
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreDL.dll
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreModel.dll
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreModel.pdb
+C:\Users\naira\Documents\Revature\Poke\StoreBL\bin\Debug\net6.0\StoreDL.pdb
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.csproj.AssemblyReference.cache
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfoInputs.cache
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.AssemblyInfo.cs
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CoreCompileInputs.cache
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.csproj.CopyComplete
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.dll
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\refint\StoreBL.dll
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\StoreBL.pdb
+C:\Users\naira\Documents\Revature\Poke\StoreBL\obj\Debug\net6.0\ref\StoreBL.dll

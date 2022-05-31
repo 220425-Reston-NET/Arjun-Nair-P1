@@ -1,0 +1,37 @@
+[
+    {
+        "InvID": 1,
+        "Name": "MSI GF63",
+        "Price": 500
+    },
+
+    {
+        "InvID": 2,
+        "Name": "Dell G15",
+        "Price": 700
+    },
+
+    {
+        "InvID": 3,
+        "Name": "HP Omen",
+        "Price": 1500
+    },
+
+    {
+        "InvID": 4,
+        "Name": "MSI Aegis ZS",
+        "Price": 1700
+    },
+
+    {
+        "InvID": 5,
+        "Name": "Acer Nitro 5",
+        "Price": 650
+    },
+
+    {
+        "InvID": 6,
+        "Name": "HP Omen 25L",
+        "Price": 850
+    }
+]
