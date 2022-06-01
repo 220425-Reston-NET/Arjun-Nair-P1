@@ -2,4 +2,5 @@ bin
 obj
 ../StoreDL/Data/Customer.json
 appsettings.json
+../StoreApi/appsettings.json
 
