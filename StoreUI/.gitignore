@@ -1,6 +1,7 @@
 bin
 obj
-../StoreDL/Data/Customer.json
+..\StoreDL\Data\Customer.json
 appsettings.json
-../StoreApi/appsettings.json
+..\StoreApi\appsettings.json
+
 
