@@ -37,6 +37,16 @@ namespace StoreBL
             }
         }
 
+        public List<Customer> GetAllCustomers()
+        {
+            return _customerRepo.GetAll();
+        }
+
+        // public List<Customer> GettAllCustomers()
+        // {
+        //     return _customerRepo.GetAll();
+        // }
+
         public Customer SearchCustomerByName(string c_custName)
         {
             List<Customer> currentListOfCust = _customerRepo.GetAll();

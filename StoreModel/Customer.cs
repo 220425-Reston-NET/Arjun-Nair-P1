@@ -63,5 +63,10 @@ namespace StoreModel
             Email = "sample.example@email.com";
             Orders = new List<Order>();
         }
+
+        public override string ToString()
+        {
+            return $"===Customer Info===\nName:  {Name}\nAddress: {Address} \nPhone:  {Phone}\nEmail:  {Email}\n==============";
+        }
     }
 }
