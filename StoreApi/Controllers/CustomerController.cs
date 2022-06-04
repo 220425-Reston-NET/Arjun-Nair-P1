@@ -34,6 +34,22 @@ namespace StoreApi.Controllers
             }
         }
 
+        [HttpGet("AddCustomer")]
+        public IActionResult AddCustomer([FromBody] Customer c_customer)
+        {
+            try
+            {
+                _customerBL.AddCustomer(c_customer);
+
+                return Created("Customer Added to Databse.", c_customer);
+            }
+            catch (SqlException)
+            {
+                
+                return Conflict();
+            }
+        }
+
         [HttpGet("SearchCustomerByName")]
         public IActionResult SearchCustomer([FromQuery] string custName)
         {

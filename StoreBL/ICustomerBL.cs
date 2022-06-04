@@ -14,6 +14,8 @@ namespace StoreBL
 
         Customer SearchCustomerByName(string c_custName);
 
+        Customer SearchCustomerById(int c_custId);
+
         List<Customer> GetAllCustomers();
 
     }

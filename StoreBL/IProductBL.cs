@@ -12,5 +12,7 @@ namespace StoreBL
         Products SearchProductByName(string p_prodName);
 
         void AddDescriptionToProduct(Products p_product);
+
+        List<Products> GetAllProducts();
     }
 }

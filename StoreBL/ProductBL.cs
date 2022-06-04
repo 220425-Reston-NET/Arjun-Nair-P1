@@ -16,6 +16,11 @@ namespace StoreBL
             _prodRepo.Update(p_product);
         }
 
+        public List<Products> GetAllProducts()
+        {
+            return _prodRepo.GetAll();
+        }
+
         public Products SearchProductByName(string p_prodName)
         {
             // throw new NotImplementedException();

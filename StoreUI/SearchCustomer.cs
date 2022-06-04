@@ -66,6 +66,33 @@ public class SearchCustomer : IMenu
         }
         else if (userInput == "2")
         {
+            System.Console.WriteLine("Enter customer Id: ");
+            string custId = Console.ReadLine();
+
+            foundCustomer = _custBL.SearchCustomerByName(custId);
+
+            if (foundCustomer == null)
+            {
+                System.Console.WriteLine("Customer was not found!");
+            }
+            else
+            {
+                System.Console.WriteLine(foundCustomer.ToString());
+
+                System.Console.WriteLine("[0] - Go Back");
+                System.Console.WriteLine("[1] - Main Menu");
+
+                string addCustChoice = Console.ReadLine();
+                if (addCustChoice == "1")
+                {
+                    return "MainMenu";
+                }
+                else
+                {
+                    return "SearchCustomer";
+                }
+            }
+
             return "MainMenu";
         }
         else if (userInput == "3")

@@ -13,6 +13,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IRepository<Customer>, SQLCustomerRepository>(repo => new SQLCustomerRepository(builder.Configuration.GetConnectionString("Arjun_Nair")));
 builder.Services.AddScoped<ICustomerBL, CustomerBL>();
+builder.Services.AddScoped<IRepository<Products>, SQLProductRepository>(repo => new SQLProductRepository(builder.Configuration.GetConnectionString("Arjun_Nair")));
+builder.Services.AddScoped<IProductBL, ProductBL>();
 
 
 var app = builder.Build();

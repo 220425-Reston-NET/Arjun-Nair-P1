@@ -23,6 +23,7 @@ namespace StoreDL
         {
             string jsonString = File.ReadAllText(_filepath);
             List<Products> listofProduct = JsonSerializer.Deserialize<List<Products>>(jsonString);
+            
             return listofProduct;
         }
 

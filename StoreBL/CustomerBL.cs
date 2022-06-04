@@ -61,5 +61,20 @@ namespace StoreBL
 
             return null;
         }
+
+        public Customer SearchCustomerById(int c_custId)
+        {
+            List<Customer> currentListOfCust = _customerRepo.GetAll();
+
+            foreach (Customer custObj in currentListOfCust)
+            {
+                if (custObj.CustID == c_custId)
+                {
+                    return custObj;
+                }
+            }
+
+            return null;
+        }
     }
 }
