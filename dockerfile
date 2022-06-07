@@ -45,7 +45,7 @@ entrypoint ["dotnet", "StoreApi.dll"]
 
 expose 5000
 
-env ASPNETCORE_URLS=https://+:5000
+env ASPNETCORE_URLS=http://+:5000
 
 # Run this in console
 # docker build -t [YourName]/[Your App Name]:[Current version] .
