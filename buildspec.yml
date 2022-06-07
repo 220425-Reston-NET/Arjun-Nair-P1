@@ -10,8 +10,8 @@ phases:
 
   pre_build:
     commands:
-      - echo 'Restoring dependencies of each project (the packages) and unit testing
-      - dotnet restore'
+      - echo 'Restoring dependencies of each project (the packages) and unit testing'
+      - dotnet restore
       - dotnet test --no-restore
 
   build:
