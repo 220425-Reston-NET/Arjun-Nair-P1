@@ -22,7 +22,7 @@ phases:
   post_build:
     commands:
       - echo 'Creating the publish folder for the app'
-      - dotnet publish -c Realease -o publish
+      - dotnet publish -c Release -o publish
 
 artifacts:
   files:
