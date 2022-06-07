@@ -24,7 +24,7 @@ phases:
       - echo 'Creating the publish folder for the app'
       - dotnet publish -c Realease -o publish
 
-  artifacts:
-    files:
-      - 'Dockerfile'
-      - publish/**/*
+artifacts:
+  files:
+    - 'Dockerfile'
+    - publish/**/*
