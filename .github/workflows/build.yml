@@ -56,6 +56,10 @@ jobs:
           New-Item -Path .\.sonar\scanner -ItemType Directory
           dotnet tool update dotnet-sonarscanner --tool-path .\.sonar\scanner
       
+      # Testing and generating a sonarcloud report for code coverage
+      - name: Test
+        run: dotnet test --logger trx --collect:"XPlat Code Coverage" -- DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=opencover
+        
       # Builds and generate a sonarcloud report and uploads it to sonarcloud.io website
       - name: Build and analyze
         env:
