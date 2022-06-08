@@ -32,5 +32,25 @@ namespace StoreApi.Controllers
                 return NotFound("We Do Not Sell This Product!");
             }
         }
+
+        [HttpGet("SearchProductByName")]
+        public IActionResult SearchProduct([FromQuery] string prodName)
+        {
+            try
+            {
+                return Ok(_productBL.SearchProductByName(prodName));
+            }
+            catch (SqlException)
+            {
+                
+                return Conflict();
+            }
+        }
+
+        // [HttpPut("RestoreStock")]
+        // public IActionResult RestoreStock([FromQuery] int p_Inventory, [FromQuery] int p_iId, [FromQuery] int p_prodId)
+        // {
+            
+        // }
     }
 }
