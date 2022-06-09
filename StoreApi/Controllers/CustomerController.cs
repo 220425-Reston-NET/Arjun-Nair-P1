@@ -34,7 +34,7 @@ namespace StoreApi.Controllers
             }
         }
 
-        [HttpGet("AddCustomer")]
+        [HttpPost("AddCustomer")]
         public IActionResult AddCustomer([FromBody] Customer c_customer)
         {
             try
